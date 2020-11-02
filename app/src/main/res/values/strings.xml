@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Latihan2_PMO2_IF18D</string>
+    <string name="read_data">Read Data</string>
+    <string name="nama_file_txt">nama file</string>
+    <string name="from_external_storage">From External Storage</string>
+    <string name="write_data">Write Data</string>
+    <string name="nama_file_example_txt">nama file</string>
+    <string name="to_external_storage">to External Storage</string>
+    <string name="buat_file">Buat File</string>
+    <string name="read_form">Read Form</string>
+    <string name="isi_file">isi file...</string>
+</resources>
